@@ -20,8 +20,4 @@ end
  lassie = Dog.new
  lassie.breed = "Beagle"
  
-  fido = Dog.new
-fido.name = "Fido"
-
-puts fido.name
 
